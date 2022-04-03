@@ -1,0 +1,88 @@
+            /*NAV BAR*/
+.ournav{
+    width: 102%;
+    padding: 0%;
+    margin: 0px;
+}
+.nah{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ad5bcc;
+}
+.naparent{
+    padding-left: 40%;
+    font-size: 20px;
+    color: #61dede;
+}
+.na{
+    margin-left: 50px;
+    color: #44bebe;
+}
+.aa:hover{
+    color: #ad5bcc;
+}
+               /* adham */ 
+body{
+    overflow-x: hidden;
+    background-size: cover;
+    background-image:url(../images/bg2.jpg);
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+    color: #2721ba;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    font-weight: bold;
+}
+.imgs{
+    padding-top: 4%;
+    padding-bottom: 9%;
+}
+.img{
+    margin: 10px;
+    width: 199px;
+    height: 200px;
+    border-radius: 20px;
+}
+.slidesimg{
+    width: 100%;
+    height: 500px;
+    cursor: pointer;
+}
+.alphabet{
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 70px;
+    letter-spacing: 10px;
+    font-family: 'Shadows Into Light', cursive;
+}
+.li{
+    text-align: center;
+    border-radius: 50%;
+    padding: 15px;
+    cursor: pointer;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    margin-top: 40px;
+    background-color: #f2f2f2;
+}
+.ia{
+    cursor: pointer;
+    font-size: 30px;
+}
+.names{
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+.names:hover{
+    text-decoration: none;
+    font-size: 25px;
+}

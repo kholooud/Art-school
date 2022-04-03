@@ -1,0 +1,21 @@
+.ournav{
+    width: 100%;
+}
+.nah{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ad5bcc;
+}
+.naparent{
+    padding-left: 40%;
+    font-size: 20px;
+    color: #61dede;
+}
+.na{
+    margin-left: 50px;
+    color: #44bebe;
+}
+.aa:hover{
+    color: #ad5bcc;
+}

@@ -1,0 +1,89 @@
+body{
+    background-image:url(images/bg2.jpg);
+    background-attachment: fixed;
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+              /*navbar*/
+
+.ournav{
+    width: 102%;
+    padding: 0%; 
+    margin: 0px;
+}
+.nah{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ad5bcc;
+}
+.naparent{
+    padding-left: 40%;
+    font-size: 20px;
+    color: #61dede;
+}
+.na{
+    margin-left: 50px;
+    color: #44bebe;
+}
+.aa:hover{
+    color: #ad5bcc;
+}
+
+                         /*content*/
+.as{
+    padding-top: 89px;
+    font-size: 334%;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+     }
+
+.firstdiv{
+    background-color:antiquewhite;
+    height: 80%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+        
+}
+
+.g1{
+    background-color:aliceblue;
+    border: none;
+    border-radius: 10px;
+    width: 28%;
+    height: 45%;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.i1{
+    width: 100%;
+    height: 80%;
+    border: none;
+    border-radius: 10px;
+    
+}
+             /*footer*/
+.footer{
+    text-align: center;
+    width: 100%;
+    background-color: #f2f2f2;
+}
+.ia{
+    cursor: pointer;
+    font-size: 30px;
+}
+.names{
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+.names:hover{
+    text-decoration: none;
+    font-size: 25px;
+}
+

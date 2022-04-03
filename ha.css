@@ -1,0 +1,172 @@
+body{
+    background-image: url(img/29138579_1613391595415552_1037455733_n.jpg);
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+.ournav{
+    width: 102%;
+    padding: 0%;
+    margin: 0px;
+}
+.nah{
+    margin-left: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ad5bcc;
+}
+.naparent{
+    padding-left: 40%;
+    font-size: 20px;
+    color: #61dede;
+}
+.na{
+    margin-left: 50px;
+    color: #44bebe;
+}
+.aa:hover{
+    color: #ad5bcc;
+}
+.art{
+    
+        padding-top: 6%;
+        overflow: hidden;
+}
+.art h1{
+    font-size: 334%;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+}
+.hello{
+    position: absolute;
+    z-index: 1;
+    margin-left: 55%;
+    margin-top: 11%;
+    width: 42%; 
+    height: 3%;
+    background-color: white;
+    font-family: 'Shadows Into Light', cursive;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+    border: 3px solid rgba(89, 199, 224, 1);
+    display: inline;
+}
+.hello h1{
+    font-size: 250%;
+    padding-left: 26%;
+    padding-top: 1%;
+    line-height: 114%;
+    font-weight: bold;
+
+}
+.roll{
+        margin-top: 30px;
+        height: 450px;
+        background-color: white;
+        box-shadow: 2px 2px 2px  #9f9a9a;
+        margin-bottom: 56px;
+}
+.roll img{
+    height: 450px;
+    width=100%;
+    opacity: 2;
+}
+.welcome{
+        height: 200px;
+        background-color: white;
+        box-shadow: 2px 2px 2px  #9f9a9a;
+        margin-bottom: 56px;
+
+}
+.welcome img{
+    float: left;
+    height: 200px;
+    width: 25%;
+    display: inline;
+    padding-right: 5px;
+}
+.welcome p{
+    width: 100%;
+    height: 200px;
+    padding-left: 234px;
+    padding-top: 15px;
+    color: #b72ed0;   
+}
+.cartoon{
+        margin-top: 30px;
+        height: 450px;
+        background-color: white;
+        box-shadow: 2px 2px 2px  #9f9a9a;
+        margin-bottom: 56px;
+}
+.cartoon img{
+    height: 450px;
+    width=100%;
+    opacity: 2;
+}
+.cartoon h5{
+    align-content: center;
+    font-size: 60px;
+    font-weight: bold;
+    color:black;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.word{
+        height: 110px;
+        padding-bottom: 40px;
+        padding-top: 27px;
+}
+.word h1{
+    font-size: 50px;
+    padding-left: 34%;
+    font-family:'Shadows Into Light', cursive;
+    font-weight: bold;
+
+}
+.animals{
+        margin-bottom: 130px;
+        height: 555px;
+}
+.small{
+        float: left;
+        display: inline;
+        height: 276px;
+        width: 209px;
+        background-color: white;
+        margin: 6px;
+        border-radius: 20px;
+
+
+}
+.animals img{
+    width: 190px;
+    height: 200px;
+     margin: 10px;
+
+}
+.animals h2{
+    padding-left: 38px;
+    font-size: 23px;
+}
+.footer{
+    text-align: center;
+    width: 100%;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+.ia{
+    cursor: pointer;
+    font-size: 30px;
+}
+.names{
+    font-size: 20px;
+    font-weight: bolder;
+    text-decoration: none;
+    cursor: pointer;
+}
+.names:hover{
+    text-decoration: none;
+    font-size: 25px;
+}
